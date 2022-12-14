@@ -4,6 +4,7 @@
 uniqueHomePage = true # change to false to add sidebar to homepage
 
 blogDir = "blog" # can be posts, blog e.t.c
+docSections = ["infills", "materials"]
 
 repo = "https://github.com/onweru/compose"
 
