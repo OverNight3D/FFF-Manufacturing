@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "golang.go",
+    "budparr.language-hugo-vscode",
+    "rusnasonov.vscode-hugo",
+    "naumovs.color-highlight",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint"
+  ]
+}
