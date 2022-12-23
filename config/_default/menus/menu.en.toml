@@ -7,29 +7,3 @@ url = "materials/"
 name = "Infills"
 weight = 2
 url = "infills/"
-
-# [[main]]
-#   name = "Docs"
-#   weight = 2
-#   url = "docs/"
-
-# [[main]]
-#   name = "Tutorials"
-#   weight = 2
-#   url = "tutorials/"
-
-# [[main]]
-#   name = "Example"
-#   weight = 3
-#   url = "https://docs.neuralvibes.com"
-
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
-
-#  menu items
-# [[main]]
-#   name = "Blog"
-#   weight = 5
-#   url = "blog/"
