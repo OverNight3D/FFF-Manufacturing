@@ -1,6 +1,5 @@
-Penso una scelta onesta sarebbe la seguente:
-
-# Material name
+<!-- FORM: Material Acronym | Capitalized Polymer Name -->
+# PLA | PolyLactic Acid
 
 H2 header per eventuali caricati e cose con sezioni analoghe a quelle riportate di seguito
 
