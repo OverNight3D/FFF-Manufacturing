@@ -1,5 +1,5 @@
-<!-- FORM: Material Acronym | Capitalized Polymer Name -->
-# PLA | PolyLactic Acid
+<!-- FORM: Material Acronym - Capitalized Polymer Name -->
+# PLA - PolyLactic Acid
 
 H2 header per eventuali caricati e cose con sezioni analoghe a quelle riportate di seguito
 
