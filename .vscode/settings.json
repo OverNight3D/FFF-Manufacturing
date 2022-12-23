@@ -1,0 +1,9 @@
+{
+  "markdownlint.config": {
+    "default": true,
+    "MD003": false,
+    "MD007": { "indent": 4 },
+    "MD030": { "ul_single": 3, "ul_multi": 3 },
+    "MD041": false
+  }
+}
