@@ -1,7 +1,11 @@
-<!-- FORM: Material Acronym - Capitalized Polymer Name -->
-# PLA - PolyLactic Acid
+<!-- TITLE: Material Acronym - Capitalized Polymer Name -->
+---
+title: 'PLA - PolyLactic Acid'
+weight: 1
+---
 
-H2 header per eventuali caricati e cose con sezioni analoghe a quelle riportate di seguito
+<!-- brief material descriptions-->
+Aliqua sit minim magna amet eiusmod in labore ullamco nulla aliqua.
 
 ## Why I want it and why I don't want it?
 
@@ -29,5 +33,5 @@ Consigli best produttori
 ## Reference ulteriori
 
 Si possono anche inserire in ogni sezione
-____
+
 Nella descrizione repo inserire come si deve anche l'idea di fare il sito, il perché di questa repo e l'invito a contribuire in caso di evidenti errori o cose da aggiungere
