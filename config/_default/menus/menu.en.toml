@@ -1,29 +1,23 @@
-#  menu items
-# [[main]]
-#   name = "Blog"
-#   weight = 5
-#   url = "blog/"
+[[main]]
+name = "Materials"
+weight = 1
+url = "materials/"
 
 [[main]]
-  name = "Materials"
-  weight = 5
-  url = "materials/"
-
-[[main]]
-  name = "Infills"
-  weight = 5
-  url = "infills/"
+name = "Infills"
+weight = 2
+url = "infills/"
 
 # [[main]]
 #   name = "Docs"
 #   weight = 2
 #   url = "docs/"
-#
+
 # [[main]]
 #   name = "Tutorials"
 #   weight = 2
 #   url = "tutorials/"
-#
+
 # [[main]]
 #   name = "Example"
 #   weight = 3
@@ -32,4 +26,10 @@
 # [[main]]
 #   name = "Blog"
 #   weight = 4
+#   url = "blog/"
+
+#  menu items
+# [[main]]
+#   name = "Blog"
+#   weight = 5
 #   url = "blog/"
