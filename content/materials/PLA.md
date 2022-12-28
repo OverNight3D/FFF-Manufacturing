@@ -1,4 +1,4 @@
 ---
-title: 'PLA - PolyLactic Acid'
+title: '[PLA] PolyLactic Acid'
 weight: 1
 ---
