@@ -7,8 +7,7 @@ on:
   pull_request:
 
 permissions:
-  contents: read/write
-  pull-requests: write
+  contents: write
 
 jobs:
   deploy:
