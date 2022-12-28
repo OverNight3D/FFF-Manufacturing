@@ -6,6 +6,10 @@ on:
       - master
   pull_request:
 
+permissions:
+  contents: read/write
+  pull-requests: write
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
