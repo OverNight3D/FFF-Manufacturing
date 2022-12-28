@@ -1,9 +1,0 @@
-[[main]]
-name = "Materials"
-weight = 1
-url = "materials/"
-
-[[main]]
-name = "Infills"
-weight = 2
-url = "infills/"
